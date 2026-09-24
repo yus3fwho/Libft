@@ -1,6 +1,6 @@
 # Libft
 
-Libft is a custom C library developed as part of the 42 School curriculum.
+Libft is a custom C library developed
 
 The goal of this project is to recreate a collection of commonly used functions from the C standard library and implement additional utility functions.
 
